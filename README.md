@@ -111,26 +111,26 @@ philosophy  : "I don't just write code - I keep it running in production."
 
 ---
 
-## How I Build Web Apps (DevOps Way)
+## How I Build
 
 ```
-   Idea                                                       Production
-    │                                                              │
-    ▼                                                              ▼
- ┌──────────┐   ┌──────────┐   ┌────────────┐   ┌──────────┐   ┌──────────┐
- │  Design  │──▶│   Code   │──▶│   Docker   │──▶│ CI / CD  │──▶│  Cloud   │
- │  Sketch  │   │React /   │   │Containerize│   │ GitHub   │   │   AWS    │
- │          │   │Node.js   │   │  + Nginx   │   │ Actions  │   │    +     │
- └──────────┘   └──────────┘   └────────────┘   └──────────┘   │  Linux   │
-                                                               │  Server  │
-                                                               └────┬─────┘
-                                                                    │
-                                                                    ▼
-                                                             ┌──────────────┐
-                                                             │  Monitor     │
-                                                             │ Grafana +    │
-                                                             │ Prometheus   │
-                                                             └──────────────┘
+                  Idea                                                       Production
+                   │                                                              │
+                   ▼                                                              ▼
+                ┌──────────┐   ┌──────────┐   ┌────────────┐   ┌──────────┐   ┌──────────┐
+                │  Design  │──▶│   Code   │──▶│   Docker   │──▶│ CI / CD  │──▶│  Cloud   │
+                │  Sketch  │   │React /   │   │Containerize│   │ GitHub   │   │   AWS    │
+                │          │   │Node.js   │   │  + Nginx   │   │ Actions  │   │    +     │
+                └──────────┘   └──────────┘   └────────────┘   └──────────┘   │  Linux   │
+                                                                              │  Server  │
+                                                                              └────┬─────┘
+                                                                                   │
+                                                                                   ▼
+                                                                            ┌──────────────┐
+                                                                            │  Monitor     │
+                                                                            │ Grafana +    │
+                                                                            │ Prometheus   │
+                                                                            └──────────────┘
 ```
 
 ---
@@ -166,7 +166,7 @@ philosophy  : "I don't just write code - I keep it running in production."
 
 ```
  Present           ───┤  Linux Administrator + DevOps Enthusiast
-                      │   Building · Deploying · Automating · Monitoring
+                      │  · Building · Deploying · Automating · Monitoring
                       │
 NOV/2021-FEB-2022  ───┤ Linux Administrator @ Justdial Ptv. Ltd.
 ```
