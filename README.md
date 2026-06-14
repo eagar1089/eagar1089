@@ -93,7 +93,7 @@ philosophy  : "I don't just write code - I keep it running in production."
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2000&pause=99999&color=A0A0A0&center=true&vCenter=true&width=480&lines=Built+end-to-end+%E2%80%94+coded%2C+containerized+%26+deployed+%F0%9F%94%A8" alt="projects label" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2000&pause=99999&color=A0A0A0&center=true&vCenter=true&width=480&lines=Built+end-to-end+%E2%80%94+coded%2C+containerized+%26+deployed" alt="projects label" />
 
 <br/>
 
@@ -165,15 +165,15 @@ philosophy  : "I don't just write code - I keep it running in production."
 ## Experience Timeline
 
 ```
- Present           ---┤  Linux Administrator + DevOps Enthusiast
+ Present           ───┤  Linux Administrator + DevOps Enthusiast
                       │   Building · Deploying · Automating · Monitoring
                       │
-NOV/2021-FEB-2022  ---┤ Linux Administrator @ Justdial Ptv. Ltd.
+NOV/2021-FEB-2022  ───┤ Linux Administrator @ Justdial Ptv. Ltd.
 ```
 
 ---
 
-## Coding Profiles
+<!-- ## Coding Profiles
 
 <div align="center">
 
@@ -181,7 +181,8 @@ NOV/2021-FEB-2022  ---┤ Linux Administrator @ Justdial Ptv. Ltd.
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/eagar1089)
 
 </div>
----
+
+--- -->
 
 ## Let's Connect
 <div align="center">
@@ -191,12 +192,14 @@ NOV/2021-FEB-2022  ---┤ Linux Administrator @ Justdial Ptv. Ltd.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sagar%20Parab-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagarparab0189)
 &nbsp;
-[![Email](https://img.shields.io/badge/Gmail-your.email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Email](https://img.shields.io/badge/sgrp9801@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sgrp9801@gmail.com)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-v1eagarolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://v1eagarolio.vercel.app/)
 
 </div>
+
 ---
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,50:243b55,100:141e30&height=120&section=footer&animation=fadeIn" width="100%"/>
