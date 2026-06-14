@@ -100,12 +100,15 @@ philosophy  : "I don't just write code - I keep it running in production."
 <a href="https://github.com/eagar1089/IoT-Production-Tracker">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=eagar1089&repo=IoT-Production-Tracker&theme=tokyonight&hide_border=true&show_owner=true" />
 </a>
+
 &nbsp;
+
 <a href="https://github.com/eagar1089/Digital-MemoryJar">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=eagar1089&repo=Digital-MemoryJar&theme=tokyonight&hide_border=true&show_owner=true" />
 </a>
 <br/>
 </div>
+
 ---
 
 ## How I Build Web Apps (DevOps Way)
