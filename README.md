@@ -97,15 +97,24 @@ philosophy  : "I don't just write code - I keep it running in production."
 
 <br/>
 
+<a href="https://github.com/eagar1089/Digital-MemoryJar">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eagar1089&repo=Digital-MemoryJar&theme=tokyonight&hide_border=true&show_owner=true" />
+</a>
+
+&nbsp;
+ 
+<a href="https://github.com/2tier_Flask_App-DevOps_Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eagar1089&repo=2tier_Flask_App-DevOps_Project&theme=tokyonight&hide_border=true&show_owner=true" />
+
+&nbsp;
+
 <a href="https://github.com/eagar1089/IoT-Production-Tracker">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=eagar1089&repo=IoT-Production-Tracker&theme=tokyonight&hide_border=true&show_owner=true" />
 </a>
 
-&nbsp;
 
-<a href="https://github.com/eagar1089/Digital-MemoryJar">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eagar1089&repo=Digital-MemoryJar&theme=tokyonight&hide_border=true&show_owner=true" />
 </a>
+
 <br/>
 </div>
 
